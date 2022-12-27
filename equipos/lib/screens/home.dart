@@ -20,7 +20,7 @@ class HomeScreen extends StatelessWidget {
         child: ListView(
               children: [
                 const SizedBox(height: 15),
-                const Text('Seleccione partido', style: TextStyle(fontSize: 20), textAlign: TextAlign.center),
+                const Text('Seleccione el partido', style: TextStyle(fontSize: 20), textAlign: TextAlign.center),
                 const SizedBox(height: 15,),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceAround,
