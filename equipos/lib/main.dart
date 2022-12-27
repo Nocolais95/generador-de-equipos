@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Generador de equipo',
+      title: 'Generador de equipos',
       debugShowCheckedModeBanner: false,
       initialRoute: 'home',
       routes: {
